@@ -43,7 +43,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="https://docs.google.com/document/d/1WIESR_ugZzjDCkidSlJVQoRbbzDfGk40Y1VEniU6aQQ/edit?usp=sharing"
+                  href=https://drive.google.com/file/d/187TirZrC5ANeLfJtqds0tGRx72StNb2V/view?usp=sharing"
                   download
                 >
                   Resume
